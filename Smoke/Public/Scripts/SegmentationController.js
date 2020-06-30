@@ -176,18 +176,18 @@ function configureTileImage() {
 	var imageAspect = imageSize.x / imageSize.y;
 	var deviceAspect = deviceSize.x / deviceSize.y;
 
+	//	print("aaa" + script.imageBillboard.mainPass.uv2Scale)
 	script.imageBillboard.mainPass.uv2Scale = new vec2(script.tileDensity * deviceAspect, script.tileDensity * imageAspect);
+	//	print("bbb" + script.imageBillboard.mainPass.uv2Scale)
+	//	print(script.imageBillboard.mainPass.getRoatation())
 
 
-	script.imageBillboard.mainPass.uv2Offset = new vec2(script.scrollSpeedX, script.scrollSpeedY);
-	/*
 	if (script.scrolling) {
 		script.imageBillboard.mainPass.uv2Offset = new vec2(script.scrollSpeedX, script.scrollSpeedY);
 	}
 	else {
 		script.imageBillboard.mainPass.uv2Offset = new vec2(-script.tileDensity * deviceAspect / 2.0, 0.0);
 	}
-	*/
 }
 
 function configurePostEffect() {

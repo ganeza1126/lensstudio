@@ -3,7 +3,7 @@
     "document_id": "yhLc27v6jPV2RY54M7e5",
     "original_document_id": "yhLc27v6jPV2RY54M7e5",
     "version": "24",
-    "lastChanged": "1593122227644",
+    "lastChanged": "1593538639305",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -91,14 +91,26 @@
                         "TileScrollingMat"
                     ],
                     [
-                        "Scripts"
+                        "Scripts",
+                        "Image"
+                    ],
+                    [
+                        "Scripts",
+                        "Script"
                     ],
                     [
                         "Scripts",
                         "SegmentationController"
                     ],
                     [
+                        "Scripts",
+                        "smoke_pos"
+                    ],
+                    [
                         "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "smoke"
                     ]
                 ]
             ]
@@ -109,7 +121,6 @@
                     "1517446348227994:84813",
                     "1534788990696967:152078",
                     "1535646970796949:39027",
-                    "1536701119471735:10008",
                     "1536701811084472:40910",
                     "1536862674133465:250556",
                     "1538416820229714:10393"
@@ -137,7 +148,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -145,7 +156,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 2.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Cat.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -157,7 +168,10 @@
                     "1535646852378068:26367",
                     "1535646895691475:34049",
                     "1535647365001278:49935",
-                    "1538416820229899:10396"
+                    "1538416820229899:10396",
+                    "1593129365470844:342413",
+                    "1593533246858870:2403761",
+                    "1593534258300125:2536809"
                 ]
             ]
         },
@@ -311,6 +325,70 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1593126884243639:1817",
+                    "name": "Files\/File35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1593126884248453:1824",
+                    "name": "Files\/File37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1593126884258544:1837",
+                    "name": "Files\/File38.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1593126884268544:1848",
+                    "name": "Files\/File40.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "268",
+                    "uid": "1593130194700179:56574",
+                    "name": "Files\/File90.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "269",
+                    "uid": "1593533147068130:2388864",
+                    "name": "smoke",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "271",
+                    "uid": "1593534107598795:2513103",
+                    "name": "Files\/File98.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1593536108005991:2889729",
+                    "name": "Files\/File99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -391,7 +469,10 @@
                 "11": "1538416820229899:10396",
                 "12": "1553532199827453:37377",
                 "13": "1553532199852441:37643",
-                "14": "1553532228652184:51235"
+                "14": "1553532228652184:51235",
+                "15": "1593129226537009:323091",
+                "16": "1593533246858154:2403755",
+                "17": "1593534711457240:2612053"
             }
         },
         "LayerComponent": {
@@ -549,6 +630,54 @@
                 {
                     "k": "34",
                     "v": "Files\/File34.hdr"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.js"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.mesh"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.mesh"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.js"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.oprfb"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.oprfb"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.js"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.js"
                 }
             ]
         },
@@ -632,6 +761,38 @@
                     {
                         "k": "645",
                         "v": "Default Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "646",
+                        "v": "Default Textures\/Smoke-Element.png"
+                    },
+                    {
+                        "k": "647",
+                        "v": "Scripts\/smoke_rot.js"
+                    },
+                    {
+                        "k": "648",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "649",
+                        "v": "Sphere.mesh"
+                    },
+                    {
+                        "k": "698",
+                        "v": "Scripts\/Image.js"
+                    },
+                    {
+                        "k": "699",
+                        "v": "smoke.oprfb"
+                    },
+                    {
+                        "k": "701",
+                        "v": "Scripts\/Script.js"
+                    },
+                    {
+                        "k": "702",
+                        "v": "Scripts\/smoke_pos.js"
                     }
                 ],
                 "hashes": [
@@ -693,7 +854,7 @@
                     },
                     {
                         "k": "19",
-                        "v": "bdf5de95e84ea35f0830c0815025b763"
+                        "v": "79af5c849eae8e89cf77f20485cdce71"
                     },
                     {
                         "k": "21",
@@ -702,167 +863,208 @@
                     {
                         "k": "645",
                         "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "646",
+                        "v": "c9d1f6a453d673a310bca758afcf73ac"
+                    },
+                    {
+                        "k": "647",
+                        "v": "3b2b7c4a4c77938957fbdf28207cce69"
+                    },
+                    {
+                        "k": "648",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "649",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "652",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "654",
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    },
+                    {
+                        "k": "656",
+                        "v": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    {
+                        "k": "657",
+                        "v": "9107aa91a8d18484c51680d3a7a03d5a"
+                    },
+                    {
+                        "k": "659",
+                        "v": "974a3505375978cdb1f6d0e1c45e7870"
+                    },
+                    {
+                        "k": "660",
+                        "v": "13ba64ff1b481bc1b58fb4526809cb7b"
+                    },
+                    {
+                        "k": "663",
+                        "v": "6955ae436ec6a2c1fa59d00f761681f4"
+                    },
+                    {
+                        "k": "665",
+                        "v": "cfb995f6f6bdb951ea945c298701ad69"
+                    },
+                    {
+                        "k": "666",
+                        "v": "0377342409f8ec90142150bdb61f7bc7"
+                    },
+                    {
+                        "k": "668",
+                        "v": "83952503d7715d6e7a4a382918761159"
+                    },
+                    {
+                        "k": "669",
+                        "v": "be41801402376ae465615fd09cf21b74"
+                    },
+                    {
+                        "k": "670",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "671",
+                        "v": "d9d0ffff193ef8e2f63e08ec8a6bdbe6"
+                    },
+                    {
+                        "k": "672",
+                        "v": "babb18784e4226c29c40dd9cc70c48fb"
+                    },
+                    {
+                        "k": "674",
+                        "v": "6bf3d71870f980473fdf0a44292af723"
+                    },
+                    {
+                        "k": "676",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "678",
+                        "v": "8bf0bd9ac22b88367eeffb4c8379aa63"
+                    },
+                    {
+                        "k": "679",
+                        "v": "e47dc7df413a7882965b13c64e8e2305"
+                    },
+                    {
+                        "k": "682",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "683",
+                        "v": "ab2643b55fe14d19d10b8b7008e69d2d"
+                    },
+                    {
+                        "k": "684",
+                        "v": "c21a94efbc1490ad9c24fbd7a19582e4"
+                    },
+                    {
+                        "k": "686",
+                        "v": "293dd847263b992bd8c3db6df23ed47f"
+                    },
+                    {
+                        "k": "687",
+                        "v": "89c36f43c41a7a483edf1c542afc642f"
+                    },
+                    {
+                        "k": "688",
+                        "v": "99d0ca3e78fe988596048c74b3214923"
+                    },
+                    {
+                        "k": "689",
+                        "v": "652d069524e3e081774ab247a27236be"
+                    },
+                    {
+                        "k": "690",
+                        "v": "2b02d39d06be40b5e1988af378b0e640"
+                    },
+                    {
+                        "k": "692",
+                        "v": "b39d94499ccaef2cb8ea24deb78a94aa"
+                    },
+                    {
+                        "k": "693",
+                        "v": "36eb0229bded603a516e7dd1dad9674a"
+                    },
+                    {
+                        "k": "694",
+                        "v": "639c4ac5013c39c1c6e8e50a91dd54b0"
+                    },
+                    {
+                        "k": "697",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "698",
+                        "v": "a2352053f8ca197df8109d63e3db7b52"
+                    },
+                    {
+                        "k": "699",
+                        "v": "bcecd38e1d2b4bfbf21a077c466aa17c"
+                    },
+                    {
+                        "k": "700",
+                        "v": "78faa2dd2d19c3562c22e9a6a15f483a"
+                    },
+                    {
+                        "k": "701",
+                        "v": "b607e23ff8336dc1c59ac523e970f0ba"
+                    },
+                    {
+                        "k": "702",
+                        "v": "40cc049c6c05a3b993769d2d3aecbf97"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-27T17:19:44",
+                        "lastModified": "2020-07-01T01:07:21",
                         "name": "Public",
-                        "hash": "e71a4260357e952ddfc0fb13527f3c95",
+                        "hash": "25c82273470311fbeb9a22b811e9b99a",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-04-28T20:01:35",
+                                "lastModified": "2020-06-26T06:57:07",
                                 "name": "Materials",
                                 "hash": "b23bdb1dfdb92ec5e87d15108f9ae499",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-04-28T20:01:35",
+                                        "lastModified": "2020-06-04T15:10:28",
                                         "name": "BackgroundMat.lsmat",
                                         "hash": "f6a1c9ef77cbd37f2af1bfcde49762cc",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-04-28T20:01:35",
+                                        "lastModified": "2020-06-04T15:10:28",
                                         "name": "TileMat.lsmat",
                                         "hash": "1d1050721edd51fb56634487fc8fee7e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-04-28T20:01:35",
+                                        "lastModified": "2020-06-04T15:10:27",
                                         "name": "FillMat.lsmat",
                                         "hash": "efe464841101a86708e06cf6951f9f79",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-04-28T20:01:35",
+                                        "lastModified": "2020-06-04T15:10:27",
                                         "name": "TileScrollingMat.lsmat",
                                         "hash": "fe4f04921ecf1582b05b969a24883083",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2020-03-04T18:05:17",
-                                "name": "Example Textures [REMOVE_ME]",
-                                "hash": "f3e5d602801dea60a3e10f15a726b738",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "old_paper_post_effect.png",
-                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "space_background.png",
-                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "heart.png",
-                                        "hash": "6710d4920c2779d69d1ed688105767f7",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2020-04-28T19:57:25",
-                                "name": "Default Textures",
-                                "hash": "6edde4d2d7f543a168e1e51820fd0e39",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "empty.png",
-                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "MaterialParams.png",
-                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "Base.png",
-                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "Normal.png",
-                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-04-28T19:56:13",
-                                        "name": "echopark.hdr",
-                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "white.png",
-                                        "hash": "960a06e2a80d46091b8215f96b633951",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2020-03-04T18:05:17",
-                                "name": "Scripts",
-                                "hash": "840e00e972259a2296fe27c86d8f3b8d",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
-                                        "name": "SegmentationController.js",
-                                        "hash": "bdf5de95e84ea35f0830c0815025b763",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-03-04T18:05:17",
+                                        "lastModified": "2020-06-04T15:09:18",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -871,7 +1073,178 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-04T18:05:17",
+                                "lastModified": "2020-06-26T08:11:33",
+                                "name": "Plane.mesh",
+                                "hash": "3924da4ece660b56cdcb4f2b7b3fe66c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-26T06:57:07",
+                                "name": "Example Textures [REMOVE_ME]",
+                                "hash": "f3e5d602801dea60a3e10f15a726b738",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:28",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:27",
+                                        "name": "space_background.png",
+                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:28",
+                                        "name": "heart.png",
+                                        "hash": "6710d4920c2779d69d1ed688105767f7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:09:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-26T07:13:54",
+                                "name": "Default Textures",
+                                "hash": "0d8ebf44d9189c1ad1a26200c6b620d9",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:28",
+                                        "name": "empty.png",
+                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:25",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-26T07:13:22",
+                                        "name": "Smoke-Element.png",
+                                        "hash": "c9d1f6a453d673a310bca758afcf73ac",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:25",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:25",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:09:59",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:10:29",
+                                        "name": "white.png",
+                                        "hash": "960a06e2a80d46091b8215f96b633951",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:09:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-01T01:55:20",
+                                "name": "Scripts",
+                                "hash": "e1ae073535751dd31e21ea51f32c4dc8",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-30T22:37:24",
+                                        "name": "SegmentationController.js",
+                                        "hash": "79af5c849eae8e89cf77f20485cdce71",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-01T02:36:24",
+                                        "name": "Script.js",
+                                        "hash": "b607e23ff8336dc1c59ac523e970f0ba",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-01T02:11:40",
+                                        "name": "smoke_rot.js",
+                                        "hash": "3b2b7c4a4c77938957fbdf28207cce69",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-01T02:04:20",
+                                        "name": "smoke_pos.js",
+                                        "hash": "40cc049c6c05a3b993769d2d3aecbf97",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-26T09:10:35",
+                                        "name": "Image.js",
+                                        "hash": "a2352053f8ca197df8109d63e3db7b52",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T15:09:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-01T01:05:47",
+                                "name": "smoke.oprfb",
+                                "hash": "bcecd38e1d2b4bfbf21a077c466aa17c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-26T07:24:23",
+                                "name": "Sphere.mesh",
+                                "hash": "0484abd87ee78b2745eb9563b19fd6a2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T15:09:18",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1052,7 +1425,9 @@
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
                                 "source": "",
-                                "additional": ""
+                                "additional": {
+                                    "RenderTargetRole": "1"
+                                }
                             },
                             {
                                 "name": "empty",
@@ -1159,6 +1534,19 @@
                                         "additional": ""
                                     }
                                 ]
+                            },
+                            {
+                                "name": "Smoke-Element",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "165",
+                                "dependency": "0",
+                                "uid": "1593126884243639:1817",
+                                "fileId": "35",
+                                "originalId": "36",
+                                "publicId": "646",
+                                "source": "\/Users\/akase\/lensstudio\/Smoke\/Public\/Default Textures\/Smoke-Element.png",
+                                "additional": ""
                             }
                         ]
                     },
@@ -1187,6 +1575,58 @@
                                 "publicId": "19",
                                 "source": "",
                                 "additional": ""
+                            },
+                            {
+                                "name": "smoke_rot",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "166",
+                                "dependency": "0",
+                                "uid": "1593126884248453:1824",
+                                "fileId": "37",
+                                "originalId": "18446744073709551615",
+                                "publicId": "647",
+                                "source": "\/Users\/akase\/lensstudio\/Smoke\/Public\/Scripts\/Bounce.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Image",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "268",
+                                "dependency": "0",
+                                "uid": "1593130194700179:56574",
+                                "fileId": "90",
+                                "originalId": "18446744073709551615",
+                                "publicId": "698",
+                                "source": "\/private\/var\/folders\/82\/x9b5gdgn2xd1dsmtc4_482qc0000gn\/T\/Lens Studio-CElLtZ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Script",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "271",
+                                "dependency": "0",
+                                "uid": "1593534107598795:2513103",
+                                "fileId": "98",
+                                "originalId": "18446744073709551615",
+                                "publicId": "701",
+                                "source": "\/private\/var\/folders\/82\/x9b5gdgn2xd1dsmtc4_482qc0000gn\/T\/Lens Studio-zxJGHH\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smoke_pos",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "272",
+                                "dependency": "0",
+                                "uid": "1593536108005991:2889729",
+                                "fileId": "99",
+                                "originalId": "18446744073709551615",
+                                "publicId": "702",
+                                "source": "\/private\/var\/folders\/82\/x9b5gdgn2xd1dsmtc4_482qc0000gn\/T\/Lens Studio-zxJGHH\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     },
@@ -1200,6 +1640,100 @@
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
                         "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "167",
+                        "dependency": "0",
+                        "uid": "1593126884258544:1837",
+                        "fileId": "38",
+                        "originalId": "39",
+                        "publicId": "648",
+                        "source": "\/Users\/akase\/lensstudio\/Smoke\/Public\/Plane.mesh",
+                        "additional": {
+                            "originalAttribs": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "index": "0"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "index": "1"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "index": "2"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "index": "3"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "Sphere",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "168",
+                        "dependency": "0",
+                        "uid": "1593126884268544:1848",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "649",
+                        "source": "\/Users\/akase\/lensstudio\/Smoke\/Public\/Sphere.mesh",
+                        "additional": {
+                            "originalAttribs": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "index": "0"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "index": "1"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "index": "2"
+                                    },
+                                    {
+                                        "semantic": "bitangent",
+                                        "format": "9",
+                                        "index": "3"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "index": "4"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "smoke",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "269",
+                        "dependency": "0",
+                        "uid": "1593533147068130:2388864",
+                        "fileId": "91",
+                        "originalId": "97",
+                        "publicId": "699",
                         "source": "",
                         "additional": ""
                     }
@@ -1240,7 +1774,50 @@
         },
         "ObjectPrefabController": {
             "state": {
-                "objectToInfo": ""
+                "objectToInfo": [
+                    {
+                        "k": "1593129226537009:323091",
+                        "v": {
+                            "prefab": "-1:-1",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1593533390996479:2446542",
+                                    "v": "1593129226537009:323091"
+                                },
+                                {
+                                    "k": "1593533390997221:2446548",
+                                    "v": "1593129365470844:342413"
+                                },
+                                {
+                                    "k": "1593533391042574:2446669",
+                                    "v": "1593527250031193:1015764"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1593533246858154:2403755",
+                        "v": {
+                            "prefab": "1593533147068130:2388864",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1593533390996479:2446542",
+                                    "v": "1593533246858154:2403755"
+                                },
+                                {
+                                    "k": "1593533390997221:2446548",
+                                    "v": "1593533246858870:2403761"
+                                },
+                                {
+                                    "k": "1593533391042574:2446669",
+                                    "v": "1593533246963129:2403890"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             "importInfo": ""
         }
