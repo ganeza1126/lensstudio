@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "5094cac3-79e0-4708-ab89-ef0bec84f03b",
     "document_id": "yhLc27v6jPV2RY54M7e5",
     "original_document_id": "yhLc27v6jPV2RY54M7e5",
     "version": "24",
-    "lastChanged": "1593538639305",
+    "lastChanged": "1593541527498",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,9 +30,6 @@
             "collapsedList": [
                 [
                     [
-                        "Default Textures"
-                    ],
-                    [
                         "Default Textures",
                         "Base"
                     ],
@@ -50,7 +47,15 @@
                     ],
                     [
                         "Default Textures",
+                        "echopark"
+                    ],
+                    [
+                        "Default Textures",
                         "empty"
+                    ],
+                    [
+                        "Default Textures",
+                        "smoke3"
                     ],
                     [
                         "Default Textures",
@@ -70,9 +75,6 @@
                     [
                         "Example Textures [REMOVE_ME]",
                         "space_background"
-                    ],
-                    [
-                        "Materials"
                     ],
                     [
                         "Materials",
@@ -118,7 +120,6 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1517446348227994:84813",
                     "1534788990696967:152078",
                     "1535646970796949:39027",
                     "1536701811084472:40910",
@@ -170,7 +171,6 @@
                     "1535647365001278:49935",
                     "1538416820229899:10396",
                     "1593129365470844:342413",
-                    "1593533246858870:2403761",
                     "1593534258300125:2536809"
                 ]
             ]
@@ -386,6 +386,14 @@
                     "resId": "272",
                     "uid": "1593536108005991:2889729",
                     "name": "Files\/File99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1593541047882080:273945",
+                    "name": "Files\/File100.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -678,6 +686,14 @@
                 {
                     "k": "99",
                     "v": "Files\/File99.js"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.png"
                 }
             ]
         },
@@ -793,6 +809,10 @@
                     {
                         "k": "702",
                         "v": "Scripts\/smoke_pos.js"
+                    },
+                    {
+                        "k": "703",
+                        "v": "Default Textures\/smoke3.png"
                     }
                 ],
                 "hashes": [
@@ -1014,11 +1034,15 @@
                     },
                     {
                         "k": "701",
-                        "v": "b607e23ff8336dc1c59ac523e970f0ba"
+                        "v": "530cba81f11c8f894a122f473a65b1f7"
                     },
                     {
                         "k": "702",
                         "v": "40cc049c6c05a3b993769d2d3aecbf97"
+                    },
+                    {
+                        "k": "703",
+                        "v": "384b23ec49108c34a34c36d436cce788"
                     }
                 ],
                 "publicState": {
@@ -1026,11 +1050,11 @@
                         "isFolder": "true",
                         "lastModified": "2020-07-01T01:07:21",
                         "name": "Public",
-                        "hash": "25c82273470311fbeb9a22b811e9b99a",
+                        "hash": "7c670d402a76e439fa00c20f20e930c5",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-06-26T06:57:07",
+                                "lastModified": "2020-07-01T03:17:35",
                                 "name": "Materials",
                                 "hash": "b23bdb1dfdb92ec5e87d15108f9ae499",
                                 "children": [
@@ -1116,9 +1140,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-06-26T07:13:54",
+                                "lastModified": "2020-07-01T03:17:35",
                                 "name": "Default Textures",
-                                "hash": "0d8ebf44d9189c1ad1a26200c6b620d9",
+                                "hash": "d1efd371f7ed8fabe7d09b7bf41188ef",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1164,6 +1188,13 @@
                                     },
                                     {
                                         "isFolder": "false",
+                                        "lastModified": "2020-07-01T03:16:35",
+                                        "name": "smoke3.png",
+                                        "hash": "384b23ec49108c34a34c36d436cce788",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
                                         "lastModified": "2020-06-04T15:10:29",
                                         "name": "white.png",
                                         "hash": "960a06e2a80d46091b8215f96b633951",
@@ -1182,7 +1213,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2020-07-01T01:55:20",
                                 "name": "Scripts",
-                                "hash": "e1ae073535751dd31e21ea51f32c4dc8",
+                                "hash": "64bfd52af59a24ce508bf5a895333d2f",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1193,14 +1224,14 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-01T02:36:24",
+                                        "lastModified": "2020-07-01T03:10:17",
                                         "name": "Script.js",
-                                        "hash": "b607e23ff8336dc1c59ac523e970f0ba",
+                                        "hash": "530cba81f11c8f894a122f473a65b1f7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-01T02:11:40",
+                                        "lastModified": "2020-07-01T02:45:41",
                                         "name": "smoke_rot.js",
                                         "hash": "3b2b7c4a4c77938957fbdf28207cce69",
                                         "children": ""
@@ -1547,6 +1578,19 @@
                                 "publicId": "646",
                                 "source": "\/Users\/akase\/lensstudio\/Smoke\/Public\/Default Textures\/Smoke-Element.png",
                                 "additional": ""
+                            },
+                            {
+                                "name": "smoke3",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "273",
+                                "dependency": "0",
+                                "uid": "1593541047882080:273945",
+                                "fileId": "100",
+                                "originalId": "101",
+                                "publicId": "703",
+                                "source": "\/Users\/akase\/Downloads\/smoke3.png",
+                                "additional": ""
                             }
                         ]
                     },
@@ -1741,11 +1785,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1534543296305691:21549"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
