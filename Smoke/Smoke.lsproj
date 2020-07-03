@@ -3,10 +3,10 @@
     "document_id": "yhLc27v6jPV2RY54M7e5",
     "original_document_id": "yhLc27v6jPV2RY54M7e5",
     "version": "24",
-    "lastChanged": "1593811449126",
+    "lastChanged": "1593820655358",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "2020-07-03T21:20:00.629Z",
+    "videoPreviewUpdateTime": "2020-07-03T23:54:37.328Z",
     "isReadOnly": "false",
     "isAutoSaved": "false",
     "studioVersion": {
@@ -29,6 +29,9 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Default Textures"
+                    ],
                     [
                         "Default Textures",
                         "Base"
@@ -66,6 +69,153 @@
                         "white"
                     ],
                     [
+                        "Default Textures",
+                        "エモ_イラスト"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト1"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト2"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト3"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト4"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト5"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト6"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト7"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト8_横向き"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト9_横向き"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト一覧"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_イラスト案"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_1"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_2"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_3"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_4"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_5"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_6"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_グラデ_ぼかし",
+                        "エモ_7"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列1"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列2"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列3"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列4"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列5"
+                    ],
+                    [
+                        "Default Textures",
+                        "エモ_イラスト",
+                        "エモ_一列",
+                        "エモ_一列6"
+                    ],
+                    [
                         "Example Textures [REMOVE_ME]"
                     ],
                     [
@@ -79,6 +229,91 @@
                     [
                         "Example Textures [REMOVE_ME]",
                         "space_background"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Materials",
+                        "forehead_glow_material"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Materials",
+                        "head_hand_material"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh",
+                        "hand"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh",
+                        "hand",
+                        "Animations"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh",
+                        "hand",
+                        "Meshes"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh",
+                        "hand",
+                        "Meshes",
+                        "Forehead"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Mesh",
+                        "hand",
+                        "Meshes",
+                        "Hand"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Scripts"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Scripts",
+                        "HandHatController"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Textures",
+                        "cat_happy_animation"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Textures",
+                        "cat_sleep_animation"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Textures",
+                        "glow_texture"
+                    ],
+                    [
+                        "Hand Tracking Template Content [REMOVE_ME]",
+                        "Textures",
+                        "plain_white"
                     ],
                     [
                         "Materials"
@@ -101,6 +336,10 @@
                     ],
                     [
                         "Scripts",
+                        "HandTrackingController"
+                    ],
+                    [
+                        "Scripts",
                         "Image"
                     ],
                     [
@@ -110,6 +349,10 @@
                     [
                         "Scripts",
                         "SegmentationController"
+                    ],
+                    [
+                        "Scripts",
+                        "hand_emo_pos"
                     ],
                     [
                         "Scripts",
@@ -125,6 +368,16 @@
                     ],
                     [
                         "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "glow_texture"
+                    ],
+                    [
+                        "Tween"
                     ],
                     [
                         "Tween",
@@ -248,8 +501,12 @@
                     "1517446348227994:84813",
                     "1534788990696967:152078",
                     "1535646970796949:39027",
+                    "1536701811084472:40910",
                     "1536862674133465:250556",
-                    "1593686966325652:402019"
+                    "1593686367972758:272439",
+                    "1593686966325652:402019",
+                    "1593814156503377:567556",
+                    "1593815578873391:933185"
                 ]
             ]
         },
@@ -258,7 +515,7 @@
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
-                "lens_hint_smile"
+                "lens_hint_open_your_mouth"
             ],
             "lens": "emotional distance",
             "applicability": "3",
@@ -282,7 +539,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 1.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Hand Palm Moving.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -298,7 +555,8 @@
                     "1593129365470844:342413",
                     "1593534258300125:2536809",
                     "1593684946386895:23173",
-                    "1593686367972758:272439"
+                    "1593686367972758:272439",
+                    "1593815578873391:933185"
                 ]
             ]
         },
@@ -668,6 +926,294 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "293",
+                    "uid": "1593812282404253:202956",
+                    "name": "Files\/File127",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "294",
+                    "uid": "1593812282572899:202987",
+                    "name": "Files\/File129.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "295",
+                    "uid": "1593812282836456:203021",
+                    "name": "Files\/File131",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "296",
+                    "uid": "1593812283119435:203060",
+                    "name": "Files\/File133.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "297",
+                    "uid": "1593812283153645:203071",
+                    "name": "Files\/File135.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "298",
+                    "uid": "1593812283177055:203078",
+                    "name": "Files\/File137.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "299",
+                    "uid": "1593812283205910:203087",
+                    "name": "Files\/File138",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "300",
+                    "uid": "1593812283239295:203098",
+                    "name": "Files\/File139",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "301",
+                    "uid": "1593812283264557:203107",
+                    "name": "Files\/File140.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "302",
+                    "uid": "1593812283293116:203114",
+                    "name": "Files\/File142.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "303",
+                    "uid": "1593812508236302:242609",
+                    "name": "Files\/File144.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "304",
+                    "uid": "1593813439511498:344762",
+                    "name": "Files\/File145.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "305",
+                    "uid": "1593813439535523:344771",
+                    "name": "Files\/File147.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "306",
+                    "uid": "1593813439588830:344784",
+                    "name": "Files\/File149.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "307",
+                    "uid": "1593813439621912:344795",
+                    "name": "Files\/File151.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "308",
+                    "uid": "1593813439660511:344806",
+                    "name": "Files\/File153.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1593813439691967:344813",
+                    "name": "Files\/File155.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "310",
+                    "uid": "1593813439731691:344824",
+                    "name": "Files\/File157.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "311",
+                    "uid": "1593813439765304:344835",
+                    "name": "Files\/File159.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "312",
+                    "uid": "1593813439795400:344846",
+                    "name": "Files\/File161.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "313",
+                    "uid": "1593813439825444:344857",
+                    "name": "Files\/File163.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "314",
+                    "uid": "1593813439857072:344864",
+                    "name": "Files\/File165.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1593813439894989:344875",
+                    "name": "Files\/File167.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1593813439915929:344886",
+                    "name": "Files\/File169.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1593813439939332:344893",
+                    "name": "Files\/File171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1593813439961870:344904",
+                    "name": "Files\/File173.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1593813439984767:344911",
+                    "name": "Files\/File175.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1593813440016016:344922",
+                    "name": "Files\/File177.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "321",
+                    "uid": "1593813440041853:344933",
+                    "name": "Files\/File179.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "322",
+                    "uid": "1593813440073046:344940",
+                    "name": "Files\/File181.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "323",
+                    "uid": "1593813440095356:344947",
+                    "name": "Files\/File183.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "324",
+                    "uid": "1593813440117773:344958",
+                    "name": "Files\/File185.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "325",
+                    "uid": "1593813440373673:344989",
+                    "name": "Files\/File187.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "326",
+                    "uid": "1593813440409366:345000",
+                    "name": "Files\/File189.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "327",
+                    "uid": "1593813440432963:345007",
+                    "name": "Files\/File191.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "328",
+                    "uid": "1593814996095963:785746",
+                    "name": "Files\/File193.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -810,6 +1356,174 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1593813877312234:499787",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593813877336854:499921",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593813877364513:500067",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814156503592:567557",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814156551277:567841",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814156730584:568193",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814156887433:568534",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814157041894:568871",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814157190596:569212",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814157344680:569549",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814157496894:569890",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593814157643307:570227",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -864,8 +1578,29 @@
                 "43": "1593686966504280:402814",
                 "44": "1593686966635581:403075",
                 "45": "1593686966636433:403077",
-                "46": "1593687471644593:499744",
-                "47": "1593688836891940:800195"
+                "46": "1593813877311991:499786",
+                "47": "1593813877336674:499920",
+                "48": "1593813877364325:500066",
+                "49": "1593814156503377:567556",
+                "50": "1593814156525670:567694",
+                "51": "1593814156551085:567840",
+                "52": "1593814156709435:568046",
+                "53": "1593814156730377:568192",
+                "54": "1593814156863899:568387",
+                "55": "1593814156887245:568533",
+                "56": "1593814157019444:568728",
+                "57": "1593814157041719:568870",
+                "58": "1593814157168251:569065",
+                "59": "1593814157190410:569211",
+                "60": "1593814157321154:569406",
+                "61": "1593814157344503:569548",
+                "62": "1593814157474638:569743",
+                "63": "1593814157496717:569889",
+                "64": "1593814157621055:570080",
+                "65": "1593814157643123:570226",
+                "66": "1593815578873391:933185",
+                "67": "1593815578878163:933205",
+                "68": "1593815600455297:949046"
             }
         },
         "LayerComponent": {
@@ -1175,6 +1910,274 @@
                 {
                     "k": "125",
                     "v": "Files\/File125.js"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.lsmat"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.jpg"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.jpg"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.lsmat"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.mesh"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.mesh"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.mesh"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.mesh"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137.js"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.png"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.png"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.png"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.png"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.js"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.png"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.png"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.png"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.png"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.png"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.png"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.png"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.png"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.png"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.png"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.png"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.png"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.png"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.png"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.png"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.png"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.png"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.png"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163.png"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.png"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165.png"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.png"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.png"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.png"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.png"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170.png"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.png"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.png"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.png"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.png"
+                },
+                {
+                    "k": "175",
+                    "v": "Files\/File175.png"
+                },
+                {
+                    "k": "176",
+                    "v": "Files\/File176.png"
+                },
+                {
+                    "k": "177",
+                    "v": "Files\/File177.png"
+                },
+                {
+                    "k": "178",
+                    "v": "Files\/File178.png"
+                },
+                {
+                    "k": "179",
+                    "v": "Files\/File179.png"
+                },
+                {
+                    "k": "180",
+                    "v": "Files\/File180.png"
+                },
+                {
+                    "k": "181",
+                    "v": "Files\/File181.png"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.png"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.png"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.png"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.png"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.png"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.png"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.png"
+                },
+                {
+                    "k": "189",
+                    "v": "Files\/File189.png"
+                },
+                {
+                    "k": "190",
+                    "v": "Files\/File190.png"
+                },
+                {
+                    "k": "191",
+                    "v": "Files\/File191.png"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192.png"
+                },
+                {
+                    "k": "193",
+                    "v": "Files\/File193.js"
                 }
             ]
         },
@@ -1398,6 +2401,198 @@
                     {
                         "k": "729",
                         "v": "Scripts\/smile.js"
+                    },
+                    {
+                        "k": "741",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]"
+                    },
+                    {
+                        "k": "742",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Materials"
+                    },
+                    {
+                        "k": "743",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Materials\/forehead_glow_material.lsmat"
+                    },
+                    {
+                        "k": "744",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "745",
+                        "v": "Textures\/glow_texture.jpg"
+                    },
+                    {
+                        "k": "746",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Materials\/head_hand_material.lsmat"
+                    },
+                    {
+                        "k": "747",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh"
+                    },
+                    {
+                        "k": "748",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand"
+                    },
+                    {
+                        "k": "749",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Animations"
+                    },
+                    {
+                        "k": "750",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Meshes"
+                    },
+                    {
+                        "k": "751",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Meshes\/Forehead.mesh"
+                    },
+                    {
+                        "k": "752",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Meshes\/Hand.mesh"
+                    },
+                    {
+                        "k": "753",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Scripts"
+                    },
+                    {
+                        "k": "754",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Scripts\/HandHatController.js"
+                    },
+                    {
+                        "k": "755",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Textures"
+                    },
+                    {
+                        "k": "756",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Textures\/cat_happy_animation"
+                    },
+                    {
+                        "k": "757",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Textures\/cat_sleep_animation"
+                    },
+                    {
+                        "k": "758",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Textures\/glow_texture.png"
+                    },
+                    {
+                        "k": "759",
+                        "v": "Hand Tracking Template Content [REMOVE_ME]\/Textures\/plain_white.png"
+                    },
+                    {
+                        "k": "760",
+                        "v": "Scripts\/HandTrackingController.js"
+                    },
+                    {
+                        "k": "761",
+                        "v": "Default Textures\/エモ_イラスト"
+                    },
+                    {
+                        "k": "762",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト1.png"
+                    },
+                    {
+                        "k": "763",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト2.png"
+                    },
+                    {
+                        "k": "764",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト3.png"
+                    },
+                    {
+                        "k": "765",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト4.png"
+                    },
+                    {
+                        "k": "766",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト5.png"
+                    },
+                    {
+                        "k": "767",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト6.png"
+                    },
+                    {
+                        "k": "768",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト7.png"
+                    },
+                    {
+                        "k": "769",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト8_横向き.png"
+                    },
+                    {
+                        "k": "770",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト9_横向き.png"
+                    },
+                    {
+                        "k": "771",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト一覧.png"
+                    },
+                    {
+                        "k": "772",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_イラスト案.png"
+                    },
+                    {
+                        "k": "773",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし"
+                    },
+                    {
+                        "k": "774",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_1.png"
+                    },
+                    {
+                        "k": "775",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_2.png"
+                    },
+                    {
+                        "k": "776",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_3.png"
+                    },
+                    {
+                        "k": "777",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_4.png"
+                    },
+                    {
+                        "k": "778",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_5.png"
+                    },
+                    {
+                        "k": "779",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_6.png"
+                    },
+                    {
+                        "k": "780",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_7.png"
+                    },
+                    {
+                        "k": "781",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列"
+                    },
+                    {
+                        "k": "782",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列1.png"
+                    },
+                    {
+                        "k": "783",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列2.png"
+                    },
+                    {
+                        "k": "784",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列3.png"
+                    },
+                    {
+                        "k": "785",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列4.png"
+                    },
+                    {
+                        "k": "786",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列5.png"
+                    },
+                    {
+                        "k": "787",
+                        "v": "Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列6.png"
+                    },
+                    {
+                        "k": "788",
+                        "v": "Scripts\/hand_emo_pos.js"
                     }
                 ],
                 "hashes": [
@@ -1699,21 +2894,213 @@
                     },
                     {
                         "k": "729",
-                        "v": "588988379e5e58d1cc8f4a6ce6dcddd8"
+                        "v": "c17de8f6c2c3855b88c69cd20c108f6d"
+                    },
+                    {
+                        "k": "740",
+                        "v": "5f6739297d7674c3980ddfbc2b85c02d"
+                    },
+                    {
+                        "k": "741",
+                        "v": "5f6739297d7674c3980ddfbc2b85c02d"
+                    },
+                    {
+                        "k": "742",
+                        "v": "0e0204c75a2789a5aab5f339a0eb002b"
+                    },
+                    {
+                        "k": "743",
+                        "v": "4b4be100eb9df793ff82a05428b98fd6"
+                    },
+                    {
+                        "k": "745",
+                        "v": "1c05530520093c40b964f8d5b311d412"
+                    },
+                    {
+                        "k": "746",
+                        "v": "97237bac0c94b95f5221bd2ec9c17864"
+                    },
+                    {
+                        "k": "747",
+                        "v": "76a15996535b92009a030a252efa5975"
+                    },
+                    {
+                        "k": "748",
+                        "v": "483225261ca7d2dbf8c08b32951ca1a7"
+                    },
+                    {
+                        "k": "749",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "750",
+                        "v": "e51e08df533b595aa37c50f3d3e8e9d0"
+                    },
+                    {
+                        "k": "751",
+                        "v": "5d6642bfe6576087058736dba692ad2a"
+                    },
+                    {
+                        "k": "752",
+                        "v": "97e4b410d4b60145983eb3a6c8bd23d9"
+                    },
+                    {
+                        "k": "753",
+                        "v": "f4bae6616c2a3014aa3c5176d99f7504"
+                    },
+                    {
+                        "k": "754",
+                        "v": "73169d9c5013214a01053956d75a90d3"
+                    },
+                    {
+                        "k": "755",
+                        "v": "e4db9279cb4a28f286a57a398e7a05b8"
+                    },
+                    {
+                        "k": "756",
+                        "v": "655a592c92624f6a57ed48420e01ced8"
+                    },
+                    {
+                        "k": "757",
+                        "v": "866f7b0f3ae1f5c9cffe455b86040da5"
+                    },
+                    {
+                        "k": "758",
+                        "v": "1c05530520093c40b964f8d5b311d412"
+                    },
+                    {
+                        "k": "759",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "760",
+                        "v": "3cea2b473d4236a6c9225b4ef0b8fb3f"
+                    },
+                    {
+                        "k": "761",
+                        "v": "ca06e9bbbe3de914c67753084dfe4a2a"
+                    },
+                    {
+                        "k": "762",
+                        "v": "5773ee1989f0cdfef93448cb014d9a1e"
+                    },
+                    {
+                        "k": "763",
+                        "v": "86fcfe6484a160a06593c6ee14696bb4"
+                    },
+                    {
+                        "k": "764",
+                        "v": "5157bdd47793aa02781f10fa16a3ca7c"
+                    },
+                    {
+                        "k": "765",
+                        "v": "245549e0dcf206b39b102d7257ea1a0d"
+                    },
+                    {
+                        "k": "766",
+                        "v": "2d93918485f6023f381c384e43418977"
+                    },
+                    {
+                        "k": "767",
+                        "v": "b757ceb9a68b6465753c65ff824af890"
+                    },
+                    {
+                        "k": "768",
+                        "v": "f59449536267002042e755bac6741ff7"
+                    },
+                    {
+                        "k": "769",
+                        "v": "b2be920eeb0c12240d6c99c98e4575f9"
+                    },
+                    {
+                        "k": "770",
+                        "v": "b2d9dc6abb5998e5cf87c37cbd79b47c"
+                    },
+                    {
+                        "k": "771",
+                        "v": "57648bcdb61d9abf35acd86d6481b3d4"
+                    },
+                    {
+                        "k": "772",
+                        "v": "ece4e4512dec8c5c793f2406d10096e1"
+                    },
+                    {
+                        "k": "773",
+                        "v": "af1ce9edd63b58f3c90c75e5521755a0"
+                    },
+                    {
+                        "k": "774",
+                        "v": "98d90146057736a6b166c97ec4c778d3"
+                    },
+                    {
+                        "k": "775",
+                        "v": "6716c070cd0e31a340dd7cd66345ff2f"
+                    },
+                    {
+                        "k": "776",
+                        "v": "7352cf3040555a177f72d617c0f20147"
+                    },
+                    {
+                        "k": "777",
+                        "v": "5cf93115d91a1a2629db291c20453fe3"
+                    },
+                    {
+                        "k": "778",
+                        "v": "d24a40256a5233431fa7161c4aa0cf98"
+                    },
+                    {
+                        "k": "779",
+                        "v": "d8ac356c5df1a72e02da743ad1a28681"
+                    },
+                    {
+                        "k": "780",
+                        "v": "8ede1c12a57ec7e665d06daa8aa90ed1"
+                    },
+                    {
+                        "k": "781",
+                        "v": "5a759af7130b8e5a9533b394f3d15064"
+                    },
+                    {
+                        "k": "782",
+                        "v": "092ed0056461f34fe56fe51e7290b3e8"
+                    },
+                    {
+                        "k": "783",
+                        "v": "1be4ba2fbb5004206fe7df00e4be04c8"
+                    },
+                    {
+                        "k": "784",
+                        "v": "595bcb0460e964ad842974cc1c8ba7e4"
+                    },
+                    {
+                        "k": "785",
+                        "v": "64171dd28dcc2b377e259fba04e90974"
+                    },
+                    {
+                        "k": "786",
+                        "v": "78e813fc1d118898ca2f36052d00c9ac"
+                    },
+                    {
+                        "k": "787",
+                        "v": "ebb3edbc7641f81c68c8fe0524d1e2be"
+                    },
+                    {
+                        "k": "788",
+                        "v": "e18bc4fb4e71ae801444c07994068354"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-02T19:49:25",
+                        "lastModified": "2020-07-04T06:38:02",
                         "name": "Public",
-                        "hash": "b06f42637e9b0bdf9448ea27cb71dc3f",
+                        "hash": "3d4b015010e24e0c5e15585bfde91c7d",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-02T19:43:00",
+                                "lastModified": "2020-07-04T06:57:18",
                                 "name": "Default Textures",
-                                "hash": "096b4baf3ca99638ddcc5f70207077b3",
+                                "hash": "c43e8b26da7df357e08e9e71a9a805df",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1784,6 +3171,219 @@
                                         "name": "white.png",
                                         "hash": "960a06e2a80d46091b8215f96b633951",
                                         "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-04T06:57:19",
+                                        "name": "エモ_イラスト",
+                                        "hash": "4926a1d14325089b4faeb93a4a54110e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト1.png",
+                                                "hash": "5773ee1989f0cdfef93448cb014d9a1e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト2.png",
+                                                "hash": "86fcfe6484a160a06593c6ee14696bb4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト3.png",
+                                                "hash": "5157bdd47793aa02781f10fa16a3ca7c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト4.png",
+                                                "hash": "245549e0dcf206b39b102d7257ea1a0d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト5.png",
+                                                "hash": "2d93918485f6023f381c384e43418977",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト6.png",
+                                                "hash": "b757ceb9a68b6465753c65ff824af890",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト7.png",
+                                                "hash": "f59449536267002042e755bac6741ff7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト8_横向き.png",
+                                                "hash": "b2be920eeb0c12240d6c99c98e4575f9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト9_横向き.png",
+                                                "hash": "b2d9dc6abb5998e5cf87c37cbd79b47c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト一覧.png",
+                                                "hash": "57648bcdb61d9abf35acd86d6481b3d4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:57:18",
+                                                "name": "エモ_イラスト案.png",
+                                                "hash": "ece4e4512dec8c5c793f2406d10096e1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-04T06:57:19",
+                                                "name": "エモ_グラデ_ぼかし",
+                                                "hash": "3f750543e593c200d85378f89185411b",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:19",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_1.png",
+                                                        "hash": "98d90146057736a6b166c97ec4c778d3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_2.png",
+                                                        "hash": "6716c070cd0e31a340dd7cd66345ff2f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_3.png",
+                                                        "hash": "7352cf3040555a177f72d617c0f20147",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_4.png",
+                                                        "hash": "5cf93115d91a1a2629db291c20453fe3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_5.png",
+                                                        "hash": "d24a40256a5233431fa7161c4aa0cf98",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_6.png",
+                                                        "hash": "d8ac356c5df1a72e02da743ad1a28681",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_7.png",
+                                                        "hash": "8ede1c12a57ec7e665d06daa8aa90ed1",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-04T06:57:19",
+                                                "name": "エモ_一列",
+                                                "hash": "d340f3bf5466dbb02b13f3e10510fcf7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:19",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列1.png",
+                                                        "hash": "092ed0056461f34fe56fe51e7290b3e8",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列2.png",
+                                                        "hash": "1be4ba2fbb5004206fe7df00e4be04c8",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列3.png",
+                                                        "hash": "595bcb0460e964ad842974cc1c8ba7e4",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列4.png",
+                                                        "hash": "64171dd28dcc2b377e259fba04e90974",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列5.png",
+                                                        "hash": "78e813fc1d118898ca2f36052d00c9ac",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-04T06:57:18",
+                                                        "name": "エモ_一列6.png",
+                                                        "hash": "ebb3edbc7641f81c68c8fe0524d1e2be",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1829,6 +3429,219 @@
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-04T06:37:59",
+                                "name": "Hand Tracking Template Content [REMOVE_ME]",
+                                "hash": "182eb7a4576ce9745373fa50ed4203ec",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T13:37:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-04T06:38:03",
+                                        "name": "Materials",
+                                        "hash": "3cb1953969edc446e66ee50144f8ba87",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:38:03",
+                                                "name": "forehead_glow_material.lsmat",
+                                                "hash": "4b4be100eb9df793ff82a05428b98fd6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-04T06:38:03",
+                                                "name": "head_hand_material.lsmat",
+                                                "hash": "97237bac0c94b95f5221bd2ec9c17864",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-04T06:37:59",
+                                        "name": "Mesh",
+                                        "hash": "2e1d47a7e842fc589492f860fcf29bc2",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-04T06:37:59",
+                                                "name": "hand",
+                                                "hash": "dba69b78293a61976b7288d0b965e96e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-07-04T06:37:59",
+                                                        "name": "Animations",
+                                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-06-04T13:37:58",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-06-04T13:37:58",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-07-04T06:37:59",
+                                                        "name": "Meshes",
+                                                        "hash": "3c5d48d7e1470171de39569243a3c6d3",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-06-04T13:37:58",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-06-04T13:37:58",
+                                                                "name": "Forehead.mesh",
+                                                                "hash": "5d6642bfe6576087058736dba692ad2a",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-06-04T13:37:58",
+                                                                "name": "Hand.mesh",
+                                                                "hash": "97e4b410d4b60145983eb3a6c8bd23d9",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-04T06:37:59",
+                                        "name": "Scripts",
+                                        "hash": "29137235400a8c0b25f7158c0a21b812",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "HandHatController.js",
+                                                "hash": "73169d9c5013214a01053956d75a90d3",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-04T06:37:59",
+                                        "name": "Textures",
+                                        "hash": "e91dc4448e1ddae3fc33d0eed70b918d",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-04T06:38:03",
+                                                "name": "cat_happy_animation",
+                                                "hash": "d35610c850907403bfbcf565ee3cf7c7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-06-04T13:37:58",
+                                                        "name": "animation.t3d",
+                                                        "hash": "7e322ef71abbbfe0127d5e76664a3e49",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-06-04T13:37:58",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "0c5d2043e8c1f8ee80086c5e4f8126cc",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-04T06:38:03",
+                                                "name": "cat_sleep_animation",
+                                                "hash": "eaacb31f75f530b54f0bbea5e5c2e29c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-06-04T13:37:58",
+                                                        "name": "animation.t3d",
+                                                        "hash": "7e322ef71abbbfe0127d5e76664a3e49",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-06-04T13:37:58",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "1c5aaa82b701fd11f5a2103cf6fddf3f",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "glow_texture.png",
+                                                "hash": "1c05530520093c40b964f8d5b311d412",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-04T13:37:58",
+                                                "name": "plain_white.png",
+                                                "hash": "960a06e2a80d46091b8215f96b633951",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "true",
@@ -1882,15 +3695,29 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-02T19:58:03",
+                                "lastModified": "2020-07-04T07:23:26",
                                 "name": "Scripts",
-                                "hash": "0aeb23681ef871805122d025d02f5cae",
+                                "hash": "e0a17c7d17e7884b146a9ac578e18461",
                                 "children": [
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2020-07-02T19:14:26",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T13:37:58",
+                                        "name": "HandTrackingController.js",
+                                        "hash": "3cea2b473d4236a6c9225b4ef0b8fb3f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-04T08:51:29",
+                                        "name": "hand_emo_pos.js",
+                                        "hash": "e18bc4fb4e71ae801444c07994068354",
                                         "children": ""
                                     },
                                     {
@@ -1916,9 +3743,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-02T20:24:15",
+                                        "lastModified": "2020-07-04T07:23:05",
                                         "name": "smile.js",
-                                        "hash": "588988379e5e58d1cc8f4a6ce6dcddd8",
+                                        "hash": "c17de8f6c2c3855b88c69cd20c108f6d",
                                         "children": ""
                                     },
                                     {
@@ -1957,6 +3784,28 @@
                                 "name": "Sphere.mesh",
                                 "hash": "0484abd87ee78b2745eb9563b19fd6a2",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-04T06:38:02",
+                                "name": "Textures",
+                                "hash": "2ee73ef6d82d88937e659267afcd92d5",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-04T06:38:02",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-04T06:38:02",
+                                        "name": "glow_texture.jpg",
+                                        "hash": "1c05530520093c40b964f8d5b311d412",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "true",
@@ -2186,7 +4035,10 @@
                         ]
                     }
                 },
-                "complexResources": ""
+                "complexResources": [
+                    "756",
+                    "757"
+                ]
             },
             "tree": {
                 "name": "",
@@ -2507,6 +4359,363 @@
                                 "publicId": "705",
                                 "source": "C:\/Users\/cyberlab\/Downloads\/redemo.png",
                                 "additional": ""
+                            },
+                            {
+                                "name": "エモ_イラスト",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "761",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "エモ_イラスト1",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "304",
+                                        "dependency": "0",
+                                        "uid": "1593813439511498:344762",
+                                        "fileId": "145",
+                                        "originalId": "146",
+                                        "publicId": "762",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト1.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "305",
+                                        "dependency": "0",
+                                        "uid": "1593813439535523:344771",
+                                        "fileId": "147",
+                                        "originalId": "148",
+                                        "publicId": "763",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト2.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト3",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "306",
+                                        "dependency": "0",
+                                        "uid": "1593813439588830:344784",
+                                        "fileId": "149",
+                                        "originalId": "150",
+                                        "publicId": "764",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト3.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト4",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "307",
+                                        "dependency": "0",
+                                        "uid": "1593813439621912:344795",
+                                        "fileId": "151",
+                                        "originalId": "152",
+                                        "publicId": "765",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト4.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト5",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "308",
+                                        "dependency": "0",
+                                        "uid": "1593813439660511:344806",
+                                        "fileId": "153",
+                                        "originalId": "154",
+                                        "publicId": "766",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト5.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト6",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "309",
+                                        "dependency": "0",
+                                        "uid": "1593813439691967:344813",
+                                        "fileId": "155",
+                                        "originalId": "156",
+                                        "publicId": "767",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト6.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト7",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "310",
+                                        "dependency": "0",
+                                        "uid": "1593813439731691:344824",
+                                        "fileId": "157",
+                                        "originalId": "158",
+                                        "publicId": "768",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト7.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト8_横向き",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "311",
+                                        "dependency": "0",
+                                        "uid": "1593813439765304:344835",
+                                        "fileId": "159",
+                                        "originalId": "160",
+                                        "publicId": "769",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト8_横向き.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト9_横向き",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "312",
+                                        "dependency": "0",
+                                        "uid": "1593813439795400:344846",
+                                        "fileId": "161",
+                                        "originalId": "162",
+                                        "publicId": "770",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト9_横向き.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト一覧",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "313",
+                                        "dependency": "0",
+                                        "uid": "1593813439825444:344857",
+                                        "fileId": "163",
+                                        "originalId": "164",
+                                        "publicId": "771",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト一覧.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_イラスト案",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "314",
+                                        "dependency": "0",
+                                        "uid": "1593813439857072:344864",
+                                        "fileId": "165",
+                                        "originalId": "166",
+                                        "publicId": "772",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_イラスト案.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "エモ_グラデ_ぼかし",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "773",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "エモ_1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "315",
+                                                "dependency": "0",
+                                                "uid": "1593813439894989:344875",
+                                                "fileId": "167",
+                                                "originalId": "168",
+                                                "publicId": "774",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_1.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "316",
+                                                "dependency": "0",
+                                                "uid": "1593813439915929:344886",
+                                                "fileId": "169",
+                                                "originalId": "170",
+                                                "publicId": "775",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_2.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_3",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "317",
+                                                "dependency": "0",
+                                                "uid": "1593813439939332:344893",
+                                                "fileId": "171",
+                                                "originalId": "172",
+                                                "publicId": "776",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_3.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_4",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "318",
+                                                "dependency": "0",
+                                                "uid": "1593813439961870:344904",
+                                                "fileId": "173",
+                                                "originalId": "174",
+                                                "publicId": "777",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_4.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_5",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "319",
+                                                "dependency": "0",
+                                                "uid": "1593813439984767:344911",
+                                                "fileId": "175",
+                                                "originalId": "176",
+                                                "publicId": "778",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_5.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_6",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "320",
+                                                "dependency": "0",
+                                                "uid": "1593813440016016:344922",
+                                                "fileId": "177",
+                                                "originalId": "178",
+                                                "publicId": "779",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_6.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_7",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "321",
+                                                "dependency": "0",
+                                                "uid": "1593813440041853:344933",
+                                                "fileId": "179",
+                                                "originalId": "180",
+                                                "publicId": "780",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_グラデ_ぼかし\/エモ_7.png",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "エモ_一列",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "781",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "エモ_一列1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "322",
+                                                "dependency": "0",
+                                                "uid": "1593813440073046:344940",
+                                                "fileId": "181",
+                                                "originalId": "182",
+                                                "publicId": "782",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列1.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_一列2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "323",
+                                                "dependency": "0",
+                                                "uid": "1593813440095356:344947",
+                                                "fileId": "183",
+                                                "originalId": "184",
+                                                "publicId": "783",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列2.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_一列3",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "324",
+                                                "dependency": "0",
+                                                "uid": "1593813440117773:344958",
+                                                "fileId": "185",
+                                                "originalId": "186",
+                                                "publicId": "784",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列3.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_一列4",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "325",
+                                                "dependency": "0",
+                                                "uid": "1593813440373673:344989",
+                                                "fileId": "187",
+                                                "originalId": "188",
+                                                "publicId": "785",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列4.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_一列5",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "326",
+                                                "dependency": "0",
+                                                "uid": "1593813440409366:345000",
+                                                "fileId": "189",
+                                                "originalId": "190",
+                                                "publicId": "786",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列5.png",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "エモ_一列6",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "327",
+                                                "dependency": "0",
+                                                "uid": "1593813440432963:345007",
+                                                "fileId": "191",
+                                                "originalId": "192",
+                                                "publicId": "787",
+                                                "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Default Textures\/エモ_イラスト\/エモ_一列\/エモ_一列6.png",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -2612,6 +4821,32 @@
                                 "originalId": "18446744073709551615",
                                 "publicId": "729",
                                 "source": "C:\/Users\/cyberlab\/AppData\/Local\/Temp\/Lens Studio-nUiXTh\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "HandTrackingController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "303",
+                                "dependency": "0",
+                                "uid": "1593812508236302:242609",
+                                "fileId": "144",
+                                "originalId": "18446744073709551615",
+                                "publicId": "760",
+                                "source": "C:\/Users\/cyberlab\/lensstudio\/handtrack\/Public\/Scripts\/HandTrackingController.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "hand_emo_pos",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "328",
+                                "dependency": "0",
+                                "uid": "1593814996095963:785746",
+                                "fileId": "193",
+                                "originalId": "18446744073709551615",
+                                "publicId": "788",
+                                "source": "C:\/Users\/cyberlab\/AppData\/Local\/Temp\/Lens Studio-ZzomKb\/\/system\/\/emergencyFiles\/emergencyJs.js",
                                 "additional": ""
                             }
                         ]
@@ -3067,16 +5302,326 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "name": "Hand Tracking Template Content [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "741",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "742",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "forehead_glow_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "293",
+                                        "dependency": "0",
+                                        "uid": "1593812282404253:202956",
+                                        "fileId": "127",
+                                        "originalId": "128",
+                                        "publicId": "743",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "head_hand_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "295",
+                                        "dependency": "0",
+                                        "uid": "1593812282836456:203021",
+                                        "fileId": "131",
+                                        "originalId": "132",
+                                        "publicId": "746",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesh",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "747",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "hand",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "748",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Animations",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "749",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "750",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Forehead",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "296",
+                                                        "dependency": "0",
+                                                        "uid": "1593812283119435:203060",
+                                                        "fileId": "133",
+                                                        "originalId": "134",
+                                                        "publicId": "751",
+                                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Meshes\/Forehead.mesh",
+                                                        "additional": {
+                                                            "originalAttribs": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "index": "0"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "index": "1"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "index": "2"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "index": "3"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Hand",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "297",
+                                                        "dependency": "0",
+                                                        "uid": "1593812283153645:203071",
+                                                        "fileId": "135",
+                                                        "originalId": "136",
+                                                        "publicId": "752",
+                                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Hand Tracking Template Content [REMOVE_ME]\/Mesh\/hand\/Meshes\/Hand.mesh",
+                                                        "additional": {
+                                                            "originalAttribs": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "index": "0"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "index": "1"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "index": "2"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "index": "3"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "753",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "HandHatController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "298",
+                                        "dependency": "0",
+                                        "uid": "1593812283177055:203078",
+                                        "fileId": "137",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "754",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Hand Tracking Template Content [REMOVE_ME]\/Scripts\/HandHatController.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "755",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cat_happy_animation",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "299",
+                                        "dependency": "0",
+                                        "uid": "1593812283205910:203087",
+                                        "fileId": "138",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "756",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cat_sleep_animation",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "300",
+                                        "dependency": "0",
+                                        "uid": "1593812283239295:203098",
+                                        "fileId": "139",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "757",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "glow_texture",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "301",
+                                        "dependency": "0",
+                                        "uid": "1593812283264557:203107",
+                                        "fileId": "140",
+                                        "originalId": "141",
+                                        "publicId": "758",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Hand Tracking Template Content [REMOVE_ME]\/Textures\/glow_texture.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "plain_white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "302",
+                                        "dependency": "0",
+                                        "uid": "1593812283293116:203114",
+                                        "fileId": "142",
+                                        "originalId": "143",
+                                        "publicId": "759",
+                                        "source": "C:\/Users\/cyberlab\/lensstudio\/Smoke\/Public\/Hand Tracking Template Content [REMOVE_ME]\/Textures\/plain_white.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "744",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "glow_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "294",
+                                "dependency": "0",
+                                "uid": "1593812282572899:202987",
+                                "fileId": "129",
+                                "originalId": "130",
+                                "publicId": "745",
+                                "source": "C:\/Users\/cyberlab\/AppData\/Local\/Temp\/Lens Studio-ZzomKb\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1538416820229714:10393"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
