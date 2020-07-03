@@ -3,10 +3,10 @@
     "document_id": "yhLc27v6jPV2RY54M7e5",
     "original_document_id": "yhLc27v6jPV2RY54M7e5",
     "version": "24",
-    "lastChanged": "1593689098956",
+    "lastChanged": "1593811449126",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
+    "videoPreviewUpdateTime": "2020-07-03T21:20:00.629Z",
     "isReadOnly": "false",
     "isAutoSaved": "false",
     "studioVersion": {
@@ -254,13 +254,13 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "99f9a381c242ecdea9ac64d1cb856022",
+            "icon_hash": "7383ec4cba3dc74523dd33c55db70c47",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
-                ""
+                "lens_hint_smile"
             ],
-            "lens": "Segmentation",
+            "lens": "emotional distance",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -282,7 +282,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Cat.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 1.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -3074,7 +3074,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1593686591526558:321611"
+                    "1538416820229714:10393"
                 ]
             }
         },
